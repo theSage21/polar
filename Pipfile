@@ -9,6 +9,9 @@ bottle = "*"
 bottle-tools = "*"
 pandas = "*"
 pip = "==18.0"
+pytest = "*"
+requests = "*"
+arrow = "*"
 
 [dev-packages]
 pytest = "*"
